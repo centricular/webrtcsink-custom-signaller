@@ -1588,7 +1588,7 @@ dependencies = [
 [[package]]
 name = "webrtcsink"
 version = "0.1.0"
-source = "git+https://github.com/centricular/webrtcsink.git#b12d91775dc8da414aed2dccbd17413b35d2230e"
+source = "git+https://github.com/centricular/webrtcsink.git#8128c14fa924c9a869d527b7c4351115034faea2"
 dependencies = [
  "anyhow",
  "async-std",
@@ -1607,6 +1607,7 @@ dependencies = [
  "serde_derive",
  "serde_json",
  "smallvec",
+ "thiserror",
 ]
 
 [[package]]
