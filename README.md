@@ -1,3 +1,5 @@
+# IMPORTANT: this is now archived in favor of <https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/tree/main/net/webrtc/examples/webrtcsink-custom-signaller>
+
 # webrtcsink custom signaller example
 
 This is a simple example to demonstrate how to use webrtcsink with a custom
